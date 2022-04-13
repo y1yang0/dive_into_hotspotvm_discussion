@@ -7,4 +7,5 @@
 + P67： `先进先出（FIFO）`=> `后进先出（LIFO）`
 
 ## 第九章 C2编译器
++ P172：`CompileBroker::comple_method` => `CompileBroker::compile_method` 
 + P198：`代码清单9-36展示的是main-loop` => `代码清单9-23展示的是main-loop`
